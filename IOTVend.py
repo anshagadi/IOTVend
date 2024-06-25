@@ -17,15 +17,15 @@ st.title("IOTVend")
 sensors = {
     "Ultrasonic Sensor": {
         "specs": "Range: 2cm - 400cm, Accuracy: ±3mm",
-        "image": "pranshu131004/IOTVend.git/ultrasonic_sensor_image.jpg"  # Update with the actual image path
+        "image": "https://raw.githubusercontent.com/pranshu131004/IOTVend/master/ultrasonic_sensor_image.jpg"  # Update with the actual image path
     },
     "IR Sensor": {
         "specs": "Range: 2cm - 30cm, Detection Angle: 35°",
-        "image": "pranshu131004/IOTVend.git/ir_sensor_image.jpg"  # Update with the actual image path
+        "image": "https://raw.githubusercontent.com/pranshu131004/IOTVend/master/pir_sensor_image.jpg"  # Update with the actual image path
     },
     "PIR Sensor": {
         "specs": "Range: 3m - 7m, Detection Angle: 120°",
-        "image": "pranshu131004/IOTVend.git/pir_sensor_image.jpg"  # Update with the actual image path
+        "image": "E:/WebD/IOTVend/pir_sensor_image.jpg"  # Update with the actual image path
     }
 }
 
